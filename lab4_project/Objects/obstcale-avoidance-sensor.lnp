@@ -1,0 +1,3 @@
+".\Objects\lab4_code.obj" 
+TO ".\Objects\obstcale-avoidance-sensor" 
+PRINT(".\Listings\obstcale-avoidance-sensor.m51") RAMSIZE(256) 
